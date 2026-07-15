@@ -1,0 +1,15 @@
+{
+  "answerSoundEnabled": true,
+  "sessionSoundsEnabled": true,
+  "confettiEnabled": true,
+  "styledButtonsEnabled": true,
+  "flagsEnabled": true,
+  "answerSound": "",
+  "deckFinishSound": "",
+  "allDoneSound": "",
+  "deckPerfectSound": "",
+  "allPerfectSound": "",
+  "_meta": {
+    "welcome_shown": false
+  }
+}
