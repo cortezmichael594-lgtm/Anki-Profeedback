@@ -35,3 +35,9 @@ Tested on Anki 25.09.x, Windows 11. Should work on macOS and Linux — feedback 
 
 AGPLv3 — see LICENSE file
 
+**Free forever, and open source (AGPLv3).**  
+If this add-on saves you time, you can support its development:
+
+[![Buy Me a Coffee](https://github.com/user-attachments/assets/30090ee5-5bd9-444d-9d1d-3c5f90584c2e)](https://ko-fi.com/ankicraft)
+&nbsp;&nbsp;
+[![Become a Patron](https://github.com/user-attachments/assets/fc3df140-e93b-44e1-ab2b-10e48251712d)](https://www.patreon.com/cw/Ankicraft594)
